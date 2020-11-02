@@ -1,0 +1,17 @@
+Homework: Javascript III
+
+1. Arrays: es un conjunto de datos(strings, numeros,objetos) que forman parte del mismo objeto y que se ordenan de acuerdo al orden en el que son ingresados. Ejemplo:
+
+	arreglo = [1,2,3];
+
+Crea un arreglo con 3 valores numericos, a los cuales podemos acceder de acuerdo al indice en el que se encuentren. Comenzando por el lugar 0.
+
+	arreglo[0] -> 1
+	arreglo[1] -> 2
+	arreglo[2] -> 3
+
+El tipo de datos introducidos en el arreglo pueden ser de tipos variados, no tienen porque ser de un solo tipo. Ejemplo:
+
+	arreglo2 = ['string', 3434, false, function function(){ console.log('funcion dentro de arreglo');}, arregloInterno = ['este','es','un','arreglo','interno'] ]
+
+Nos sirven como forma de agrupar datos bajo un mismo nombre de referencia, en el ejemplo anterior sería arreglo2[].
