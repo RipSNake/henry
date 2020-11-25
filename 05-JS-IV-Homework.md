@@ -11,7 +11,7 @@
 
 * Métodos: son funciones internas de los objetos. Por ejemplo: en un objeto "moto" un metodo podría ser "encender()"
 
-* Bucle `for…in`: sirve para iterar dentro de las propiedades de un objeto y en cada nueva al igual que en el bucle for
+* Bucle `for…in`: sirve para iterar dentro de las propiedades de un objeto y en cada propiedad ejecutar un código ( que nosotros escribamos) al igual que en el bucle for, pero en vez de nosotros utilizar una variable contador utiliza las propiedades enumerables del objeto.
 
 * Notación de puntos vs notación de corchetes: son dos formas distintas de acceder a las propiedades o métodos de un objeto. La diferencia principal es que con la notación de corchetes podemos acceder a las propiedades usando variables. Ejemplo:
 
